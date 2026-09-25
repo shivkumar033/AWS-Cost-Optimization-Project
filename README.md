@@ -10,11 +10,9 @@ The goal is to avoid waste and get the required business value from every AWS re
 
 ## Projects
 
-> Replace the `YOUR-REPOSITORY-LINK` placeholders with the URLs of your individual project repositories.
-
 | # | Project | Description | Technologies | Repository |
 |---|---|---|---|---|
-| 1 | EC2 Cost Optimization with Lambda | Automatically start and stop selected EC2 instances on a schedule to reduce compute costs during non-working hours. | Amazon EC2, AWS Lambda, EventBridge Scheduler, IAM, CloudWatch, Python (boto3) | [View Project](https://github.com/shivkumar033/AWS-Cost-Optimization-Project/blob/main/Project-1/Automatically%20Stop%20and%20Start%20EC2%20Instances.md) |
+| 1 | EC2 Cost Optimization with Lambda | Automatically start and stop selected EC2 instances on a schedule to reduce compute costs during non-working hours. | Amazon EC2, AWS Lambda, EventBridge Scheduler, IAM, Python (boto3) | [View Project](https://github.com/shivkumar033/AWS-Cost-Optimization-Project/blob/main/Project-1/Automatically%20Stop%20and%20Start%20EC2%20Instances.md) |
 | 2 | S3 Storage Cost Optimization | Configure S3 Lifecycle rules to transition older objects to lower-cost storage classes, expire eligible data, and abort incomplete multipart uploads. | Amazon S3, Lifecycle Policies, S3 Standard-IA, S3 Glacier | [View Project](https://github.com/YOUR-USERNAME/YOUR-S3-COST-OPTIMIZATION-REPO) |
 | 3 | AWS Billing and Budget Alerts | Create a monthly AWS budget and configure alerts for actual or forecasted spending using email notifications. | AWS Budgets, AWS Billing, Amazon SNS, Cost Explorer | [View Project](https://github.com/YOUR-USERNAME/YOUR-BILLING-ALERT-REPO) |
 | 4 | Serverless Application Cost Optimization | Deploy and measure a serverless application, then optimize Lambda execution duration, memory, database capacity, API caching, and log retention. | AWS Lambda, API Gateway, DynamoDB, CloudWatch | [View Project](https://github.com/YOUR-USERNAME/YOUR-SERVERLESS-COST-OPTIMIZATION-REPO) |
