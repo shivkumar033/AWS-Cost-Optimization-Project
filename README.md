@@ -13,7 +13,7 @@ The goal is to avoid waste and get the required business value from every AWS re
 | # | Project | Description | Technologies | Repository |
 |---|---|---|---|---|
 | 1 | EC2 Cost Optimization with Lambda | Automatically start and stop selected EC2 instances on a schedule to reduce compute costs during non-working hours. | Amazon EC2, AWS Lambda, EventBridge Scheduler, IAM, Python (boto3) | [View Project](https://github.com/shivkumar033/AWS-Cost-Optimization-Project/blob/main/Project-1/Automatically%20Stop%20and%20Start%20EC2%20Instances.md) |
-| 2 | AWS Cloud Cost Saver & Optimization Monitor | Monitor AWS spending with AWS Budgets, automate cost reports using Lambda and EventBridge, and optimize S3 storage using Lifecycle policies. | [View Project](https://github.com/YOUR-USERNAME/YOUR-S3-COST-OPTIMIZATION-REPO) |
+| 2 | AWS Cloud Cost Saver & Optimization Monitor | Monitor AWS spending with AWS Budgets, automate cost reports using Lambda and EventBridge, and optimize S3 storage using Lifecycle policies. | [View Project](https://github.com/shivkumar033/AWS-Cost-Optimization-Project/blob/main/Project-1-aws-cloud-cost-saver/Project%20Overview.md) |
 
 ## Key AWS Cost Optimization Practices
 
